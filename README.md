@@ -1,0 +1,2 @@
+# collateral
+Collateral is a property or an asset that a borrower offers as a way for a lender to secure the loan. Collateral arrangement is a risk reduction tool that mitigates risk by reducing credit exposure. Collateral doesn’t turn a bad counterparty into a good one and doesn’t eliminate credit risk. Instead, it just reduces the loss at the time of default. Collateral arrangement is an essential element in the plumbing of the financial system. 
