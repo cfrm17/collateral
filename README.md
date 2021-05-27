@@ -85,6 +85,10 @@ V_c (t)=(pC+qX)D(t)
 E_c (t)={■(〖MTM〗_t&if 〖MTM〗_t≤TH+MTA@TH+MTA&if 〖MTM〗_t>TH+MTA)┤
 	If the collateral is non cash, 〖MTM〗_t=max⁡(∑_i▒〖〖MTM〗_t^i,0)+〖MTM〗_t^C 〗 where 〖MTM〗_t^C is the value of the collateral asset. In other words, we need to simulate the value change of the collateral asset during margin period of risk.
 
-You can find more details at
+references:
+
 https://finpricing.com/lib/IrCurveIntroduction.html
+
+https://bitbucket.org/cfrm17/collateral/downloads/collateral-3.pdf
+
 
