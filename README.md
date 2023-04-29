@@ -88,7 +88,3 @@ E_c (t)={■(〖MTM〗_t&if 〖MTM〗_t≤TH+MTA@TH+MTA&if 〖MTM〗_t>TH+MTA)�
 references:
 
 https://finpricing.com/lib/IrCurveIntroduction.html
-
-https://bitbucket.org/cfrm17/collateral/downloads/collateral-3.pdf
-
-
